@@ -107,16 +107,16 @@ Todas las gráficas fueron generadas en Python (`seaborn` / `matplotlib`) dentro
 ## 📁 Estructura del Repositorio
 
 ```text
-├── visualizaciones/                                 <- Gráficos de pruebas de hipótesis (.png)
+├── visualizaciones/                                             <- Gráficos de pruebas de hipótesis (.png)
 │   ├── Conversiones_por_Canal_de_usuario.png
 │   ├── Conversiones_por_Tipo_de_usuario.png
 │   ├── Tasa_Conversion_Tipo_Usuario.png
 │   └── Tasa_Conversion_Canal_Usuario.png
-├── data/                                   <- Datasets del experimento
-│   └── landing_experiment.csv              <- Datos brutos del A/B test (40k registros)
+├── data/                                                         <- Datasets del experimento
+│   └── landing_experiment.csv                                    <- Datos brutos del A/B test (40k registros)
 ├── notebook/
-│   └── ab_testing_landing_experiment.ipynb <- Notebook reproducible con pruebas inferenciales
-└── README.md                               <- Documentación técnica e informe ejecutivo
+│   └── S9 Version_Student_Proyecto_Landing_Experiment.ipynb       <- Notebook reproducible con pruebas inferenciales
+└── README.md                                                      <- Documentación técnica e informe ejecutivo
 
 
 
