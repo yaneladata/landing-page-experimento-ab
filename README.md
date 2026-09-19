@@ -108,9 +108,10 @@ Todas las gráficas fueron generadas en Python (`seaborn` / `matplotlib`) dentro
 
 ```text
 ├── visualizaciones/                                 <- Gráficos de pruebas de hipótesis (.png)
-│   ├── 01_conversion_rate_comparison.png
-│   ├── 02_gasto_promedio_distribution.png
-│   └── 03_segmentacion_canales.png
+│   ├── Conversiones_por_Canal_de_usuario.png
+│   ├── Conversiones_por_Tipo_de_usuario.png
+│   ├── Tasa_Conversion_Tipo_Usuario.png
+│   └── Tasa_Conversion_Canal_Usuario.png
 ├── data/                                   <- Datasets del experimento
 │   └── landing_experiment.csv              <- Datos brutos del A/B test (40k registros)
 ├── notebook/
