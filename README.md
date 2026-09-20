@@ -3,7 +3,7 @@
 > 👤 **Rol:** Analista de Datos en Marketing Digital (Proyecto Individual)  
 > 🏢 **Contexto:** Caso de Negocio / Proyecto de Portafolio (Bootcamp Analytics - Proyecto 8)  
 > 🎯 **Alcance:** Evaluación de Experimento A/B, Pruebas de Hipótesis Estadísticas ($t$-Student, $z$-Test de Proporciones, Chi-Cuadrado de Independencia), Cuantificación de Impacto Financiero y Recomendaciones de Despliegue.  
-> 🛠️ **Stack Técnico:** Python (`pandas`, `numpy`, `scipy.stats`, `statsmodels`, `seaborn`, `matplotlib`), Jupyter Notebook.
+> 🛠️ **Stack Técnico:** Python (`pandas`, `numpy`, `scipy.stats`, `seaborn`, `matplotlib`), Jupyter Notebook.
 
 ---
 
